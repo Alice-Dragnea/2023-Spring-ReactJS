@@ -1,0 +1,15 @@
+.content {
+    max-width: 500px;
+    margin: auto;
+  }
+  
+.body{
+    font-family: Georgia, Serif;
+}
+
+.center{
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, 0%);
+  transform: translate(42%, 50%);
+}
